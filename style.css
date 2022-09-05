@@ -1,0 +1,33 @@
+body {
+    background: grey;
+    
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.left {
+    padding: 5px;
+}
+
+.right {
+    
+    padding: 5px;
+}
+
+.navbar-brand {
+    color: navy;
+}
+
+.header {
+    height: 100px;
+    padding-top: 20px;
+    background: #cdcdcd;
+  }
