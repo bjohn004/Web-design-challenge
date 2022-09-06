@@ -58,9 +58,12 @@ table, th, td {
 
 
 /* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     img {
         width: 100%;
+    }
+    .container-fluid {
+        background: lightskyblue;
     }
 }
   
