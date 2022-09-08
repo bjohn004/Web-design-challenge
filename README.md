@@ -4,6 +4,8 @@
 ## This is the repo containing the contents pertaining to Homework 11.
 ***
 
+Please note that the index.html can be found here:
+[https://bjohn004.github.io/Web-design-challenge/](https://bjohn004.github.io/Web-design-challenge/)
 
 ## Please note that this repo consists of the following:
 + ### index.html
