@@ -1,11 +1,9 @@
-# Web-design-challenge
-***
+This repo containins code for producing a landing page that consists of plots generated from a data analysis that was previously performed using Python/Pandas/Matplotlib.
 
-## This is the repo containing the contents pertaining to Homework 11.
 ***
 
 Please note that the index.html can be found here:
-[https://bjohn004.github.io/Web-design-challenge/](https://bjohn004.github.io/Web-design-challenge/)
+[https://bjohn004.github.io/Web-design-challenge/](https://bjohn004.github.io/data-landing-page/)
 
 ## Please note that this repo consists of the following:
 + ### index.html
