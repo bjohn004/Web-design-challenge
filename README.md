@@ -1,9 +1,12 @@
-This repo containins code for producing a landing page that consists of plots generated from a data analysis that was previously performed using Python/Pandas/Matplotlib.
+Summary/Problem: This repo containins code for producing a landing page that consists of plots generated from a data analysis that was previously performed using Python/Pandas/Matplotlib. The goal of this repo is to help visualize data related to climate to understand how latitude affects climate.
 
 ***
-
 Please note that the index.html can be found here:
 [https://bjohn004.github.io/Web-design-challenge/](https://bjohn004.github.io/data-landing-page/)
+***
+See snapshot of webpage below
+![image1](images/screenshot.png)
+***
 
 ## Please note that this repo consists of the following:
 + ### index.html
